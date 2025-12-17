@@ -19,5 +19,11 @@ Unlike typical "black box" AI models, this project prioritizes **medical interpr
 
 ## 💻 How to Run Locally
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/cardiac-risk-profiler.git](https://github.com/YOUR-USERNAME/cardiac-risk-profiler.git)
+   git clone [https://github.com/muhammedsavad10/cardiac-risk-profiler.git](https://github.com/muhammedsavad10/cardiac-risk-profiler.git)
+
+2.Install dependencies:
+pip install -r requirements.txt
+
+3.Run the app:
+streamlit run app.py
+
